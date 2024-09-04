@@ -4,3 +4,4 @@
 new-featureブランチで更新
 次の更新
 conflict
+リモートリポで直接更新
